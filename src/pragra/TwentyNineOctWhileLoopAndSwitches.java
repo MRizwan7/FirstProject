@@ -9,7 +9,7 @@ public class TwentyNineOctWhileLoopAndSwitches {
 //double x=(int)45.6;
         //System.out.println(x);
         //gam();
-        arr();
+        array();
     }
 
     //WHILE LOOP
@@ -175,7 +175,8 @@ public class TwentyNineOctWhileLoopAndSwitches {
         System.out.println(marks2);
         System.out.println(marks3);
         System.out.println(marks4);
-        System.out.println(marks5);
+        System.out.println(marks5);}
+    public static void array(){
 
         int[]  arr= new int[10];
 
@@ -191,7 +192,7 @@ for(int i=0;i<=9;i++){
         //  System.out.println(arr[i]);
         //}
 
-
+        System.out.println("RIZ");
     }
 }
 

@@ -11,6 +11,9 @@ public class day01 {
      //   marks[0] = 90;
         marks[1] = 98;
         marks[2] = 70;
+        marks[3] = 780;
+        marks[4] = 80;
+        marks[5] = 90;
 
         System.out.println(marks[2]);
 

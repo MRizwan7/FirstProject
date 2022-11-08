@@ -25,6 +25,8 @@ public class Diwaaliclass {
     public static void Person(boolean notActive) {
         if (notActive) {
             System.out.println("You are Lazy Person");
+            System.out.println("You are Lazy Person");
+            System.out.println("You are Lazy Person");
         }
     }
 

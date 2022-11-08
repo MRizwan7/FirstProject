@@ -13,7 +13,7 @@ public class servant {
         System.out.println("bye");
         int res = ServentDiv(3,5);
         System.out.println(res);
-        System.out.println("bye");
+        System.out.println("good bye");
 
 
 }

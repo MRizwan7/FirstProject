@@ -13,6 +13,9 @@ public class Main {
 
         float res = Div(504,3);
         System.out.println(res);
+        
+        double modulus = mod(19, 5);
+        System.out.println(modulus);
 
 
 
@@ -25,6 +28,8 @@ public class Main {
         return a*b;}
     public static float Div(int a, int b){
         return a/b;
+    public static double mod(int a, int b){
+        return a%b;
 
     }
 }
